@@ -1,5 +1,5 @@
 # Retail Sales Analytics Dashboard (Tableau)
-![Tableau Sales Dashboard](Snapshot of the Dahboard.png)
+![Tableau Dashboard](Snapshot%20of%20the%20Dahboard.png)
 ## 📊 Project Overview
 This project is an interactive Tableau dashboard providing real-time visual analysis of multi-category retail performance. It is designed to track year-over-year (YoY) sales health and identify key drivers in product categories, consumer segments, and seasonal trends.
 
